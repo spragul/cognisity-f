@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend Deploy Url: https://dulcet-starship-3fa618.netlify.app/login
+<hr/>
+Frontend source Code: https://github.com/spragul/cognisity-f
+<hr/>
+Backend Source Code: https://github.com/spragul/cognisity-b
+<hr/>
+Backend Deploy Url: https://cognisity-b.onrender.com
+<hr/>
