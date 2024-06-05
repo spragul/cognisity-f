@@ -1,1 +1,1 @@
-export const backendurl="https://cognisity-b.onrender.com/"
+export const backendurl="https://cognisity-b.onrender.com"
