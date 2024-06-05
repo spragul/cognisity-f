@@ -1,3 +1,6 @@
+#root{
+  width: 100%;
+}
 /*login start*/
 .login-container {
   display: grid;
